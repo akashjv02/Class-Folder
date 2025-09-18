@@ -2,3 +2,4 @@ INSERT INTO customers VALUES ('8','William','Tokyo','4006','Japan');
 INSERT INTO customers VALUES ('9','Sophia','Berlin','10115','Germany');
 INSERT INTO customers VALUES ('10','James','Sydney','2000','Australia'):
 INSERT INTO customers VALUES ('11','Olivia','Madrid','28001','Spain');
+INSERT INTO customers VALUES ('12','Liam','Rome','00100','Italy');
