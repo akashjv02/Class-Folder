@@ -36,3 +36,6 @@ UNION
 SELECT name 
 FROM students
 WHERE city = 'Mumbai';
+
+
+
